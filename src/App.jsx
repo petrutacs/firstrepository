@@ -8,6 +8,7 @@ const App = () => {
   return (
     <Fragment>
       <h1>Test</h1>
+      <p>Csurar Petruta</p>
       <ButtonSBD textButton={"Miu"} />
       <ButtonSBD textButton={"Adi"} />
       <ButtonSBD textButton={"Test"} />
